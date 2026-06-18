@@ -1,6 +1,6 @@
 # Replication Scripts — Modelling NULL Values Representation in an OLTP Database Instance
 
-Bachelor End Project, TU/e — Department of Mathematics and Computer Science  
+Bachelor End Project, TU/e
 Author: Jan Austin Galić | Supervisors: prof. dr. Robert Brijder, prof. Hildo Bijl
 
 ## Prerequisites
