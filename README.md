@@ -5,9 +5,16 @@ Author: Jan Austin Galić | Supervisors: prof. dr. Robert Brijder, prof. Hildo B
 
 ## Prerequisites
 
-- SQL Server 2022
+### Dataset
 - AdventureWorks2019 backup file, available at:
-  https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/adventure-works
+  https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/adventure-work
+
+### SQL
+- SQL Server 2022
+
+### Python
+- `matplotlib==3.6.2`
+- `numpy==1.26.4`
 
 ## Repository Structure
 
